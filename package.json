@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "See README.md"
+  },
+  "dependencies": {},
+  "description": "Protocol library and tools to communicate with iOS devices",
+  "devDependencies": {},
+  "directories": {},
+  "license": "SEE LICENSE IN license.txt",
+  "name": "vs-libimobile",
+  "version": "0.0.6"
+}

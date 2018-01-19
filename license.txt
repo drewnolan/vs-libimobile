@@ -1,0 +1,12 @@
+Component		License		License URL
+ideviceinstaller	GPL-2.0		https://github.com/libimobiledevice/ideviceinstaller/blob/master/COPYING
+ios-webkit-debug-proxy	BSD-3-Clause	https://github.com/google/ios-webkit-debug-proxy/blob/master/LICENSE.md
+libgcc_s_dw2-1.dll	GPL-3.1-with-GCC-exception	https://www.gnu.org/licenses/gcc-exception-3.1.en.html
+libiconv		LGPL-2.1	https://www.gnu.org/licenses/lgpl-2.1.txt
+libimobiledevice	LGPL-2.1	https://www.gnu.org/licenses/lgpl-2.1.txt
+libplist		LGPL-2.1	https://www.gnu.org/licenses/lgpl-2.1.txt
+libusbmuxd		LGPL-2.1	https://www.gnu.org/licenses/lgpl-2.1.txt
+libxml2			MIT		https://opensource.org/licenses/mit-license.html
+libzip			BSD-3-Clause	https://nih.at/libzip/LICENSE.html
+OpenSSL			Dual License	https://www.openssl.org/source/license.html
+PCRE			BSD-3-Clause	http://www.pcre.org/licence.txt
